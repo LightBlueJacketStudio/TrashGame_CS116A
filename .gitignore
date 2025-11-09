@@ -6,3 +6,11 @@
 .DS_Store
 *.csproj
 *.sln
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vs/
+.DS_Store
+*.csproj
+*.sln

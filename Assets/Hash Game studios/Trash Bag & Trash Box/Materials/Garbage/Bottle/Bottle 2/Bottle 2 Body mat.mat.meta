@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 904a760aa75beb241860f4500699a71b
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Materials/Garbage/Bottle/Bottle
-    2/Bottle 2 Body mat.mat
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:e43f91fb58a8d6da67dbf9bd68c52ce615ef51e0acd521c751ffe986d35464e9
+size 444

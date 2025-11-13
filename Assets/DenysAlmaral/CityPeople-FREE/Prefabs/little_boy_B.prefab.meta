@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 87a7b985b15a4244091de35d7df9169a
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Prefabs/little_boy_B.prefab
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f8571e9dddce546ce949781726aafabd9c31f98cd574f9679d6fcf3a9497ef4
+size 370

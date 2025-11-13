@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 41bd158128c4929498a96c4a12c1cb9c
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Materials/Garbage/Color
-    spray/Color spray mat.mat
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:58459af7bcd5a49d254cb0fcb039e87bbaf09d346574c5907f14369cc55a8132
+size 438

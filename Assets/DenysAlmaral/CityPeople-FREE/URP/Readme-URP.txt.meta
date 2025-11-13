@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 47f3b55c4a330c84db3c9e59d958eafb
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/URP/Readme-URP.txt
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:4346b216a2a3d65ddd22a889b6b50cdbb581f0183c99cec0fb9f00b28c0e72f4
+size 365

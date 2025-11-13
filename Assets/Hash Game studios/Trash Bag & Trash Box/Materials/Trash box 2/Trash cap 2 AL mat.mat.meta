@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: c74641ae153df1442b3cb1724a54ef69
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Materials/Trash box 2/Trash
-    cap 2 AL mat.mat
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:171c6ddaf24349bbfcfbad7126b49a0b43481cf2530bb834fbf924446bd1e181
+size 433

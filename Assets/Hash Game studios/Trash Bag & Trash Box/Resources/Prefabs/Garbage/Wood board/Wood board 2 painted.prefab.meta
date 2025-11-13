@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 046374f217e92b3498c14789facdbc20
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Garbage/Wood
-    board/Wood board 2 painted.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:d65d791eca69bfb8bfbe25694f47f9cba69a68b88853d01246600001ad3ccce8
+size 419

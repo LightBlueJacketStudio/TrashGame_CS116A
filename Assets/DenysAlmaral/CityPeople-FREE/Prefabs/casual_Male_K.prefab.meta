@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 2435736d6adca23458edd7c80c901e3e
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Prefabs/casual_Male_K.prefab
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6bd2192a0e61ef5d50d017800449821bb147fa9611e66a6996ae0e5950b7449
+size 371

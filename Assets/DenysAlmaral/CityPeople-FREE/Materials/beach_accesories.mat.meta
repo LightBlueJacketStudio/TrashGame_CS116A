@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 95a08eb1a0567b54f905e0a48383b401
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Materials/beach_accesories.mat
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:01ecfe3c811ac65cc48041219aff225739d1af4475afba01314f497d43fb7ef3
+size 407

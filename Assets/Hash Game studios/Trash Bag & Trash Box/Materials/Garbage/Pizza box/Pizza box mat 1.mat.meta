@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: fc48ef472cae88c46b6f17b8aecc34aa
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Materials/Garbage/Pizza
-    box/Pizza box mat 1.mat
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:25c7bf5d267ab425438b921698498ac53a7c879333fa24d19d02ee62527aafbc
+size 436

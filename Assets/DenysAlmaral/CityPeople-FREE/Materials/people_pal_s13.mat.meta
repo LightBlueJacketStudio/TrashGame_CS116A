@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 02cbbe825fdd71a4a9158ac61c12851a
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s13.mat
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:852ee7400870b46127bb184ddb820bd26045fd461f7399fe83ef27620436a35a
+size 405

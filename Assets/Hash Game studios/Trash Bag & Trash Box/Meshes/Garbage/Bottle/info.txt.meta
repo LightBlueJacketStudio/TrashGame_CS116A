@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: d7acea656214d0e47bff9c8879d3f8ba
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Meshes/Garbage/Bottle/info.txt
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ee798a29520c51c892f1323b851c2b892a86637d953316e26770f8c613b1163
+size 385

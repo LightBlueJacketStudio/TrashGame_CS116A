@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 9680aae34c997774a91acff174a88b2d
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Prefabs/z_dummyProps/building_block_C.prefab
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f40bd702edbb83795921aa29d8118bfb0e65b9fdf19dd9d0359a16f6a35a038
+size 387

@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: bcbbc4a79eda44a46b56dcb9cb3d2f52
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Materials/Garbage/Cannon/Cannon
-    food/Canned food 1 mat.mat
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:164804c05689aed52df5fae7d7b3de9ac180a29becd8d9cdf3bbd358af4b39d4
+size 447

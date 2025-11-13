@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 80727374970315443be3fdd3fec4f311
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Materials/Garbage/Brick
-    2/Brick 2 custom 1 mat.mat
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:448309edc98b562a968a55ffb443df12080ab9854f6b8ef7fbac7cd3c83a23e2
+size 439

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 05701dd0fba774740887f70d1d29bd3d
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Garbage/Bottles/1/Bottle
-    1 red glass.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fcacc3c689dbc203004a8cee0e3b236c43f0d902c02bcaa717737539dddf920
+size 416

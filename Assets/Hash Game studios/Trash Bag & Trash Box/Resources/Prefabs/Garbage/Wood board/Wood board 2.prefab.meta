@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: c54bf3643c14a85408283d548fd16b7d
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Garbage/Wood
-    board/Wood board 2.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:605aaa383b380ab0afcb445fbd60dcb2837b052af26df6628cf3f6b52d7205ad
+size 411

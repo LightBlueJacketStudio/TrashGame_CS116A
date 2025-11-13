@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 314b13a2c4f89c74299eabc2a4c725c7
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Prefabs/Doctor_Male_B.prefab
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad9ce3c67c74b8289565b81e66916ea875f329d27e5c0a67a2adbec6204d15d5
+size 371

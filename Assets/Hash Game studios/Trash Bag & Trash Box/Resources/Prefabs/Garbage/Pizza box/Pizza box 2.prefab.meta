@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e546cd6c2544fd844bdb5d754081c795
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Garbage/Pizza
-    box/Pizza box 2.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:02a494867a512c3e41db514ea222c0b7f978619b627e5eaddddca71a88a26bf1
+size 409

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: de631abe16bcab34a8d52b4821943956
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Garbage/Canned/Soda/Soda
-    can 1 blue.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bcdf23114e9096cd36db6bd361ca2377ff4e9a53e67f973ebd7ee017a2cf294
+size 415

@@ -1,9 +1,3 @@
-fileFormatVersion: 2
-guid: 273a8239dd9af2741876eb42ace95427
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Scripts/Core/Window/TextWindow.cs
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:21595feac95eaec5418d3792cdd7c5ac4c119ef1f3cac797e0bda0ccf4582f45
+size 290

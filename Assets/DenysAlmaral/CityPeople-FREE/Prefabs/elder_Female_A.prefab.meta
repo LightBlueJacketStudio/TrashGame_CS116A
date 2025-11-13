@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: bcc8732b8b44622449c23934f89e68c0
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Prefabs/elder_Female_A.prefab
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:dac1f0f7af15b6e9d7a972893d085d9bea8199c4dc93788b8ac3dc777b3ecbaf
+size 372

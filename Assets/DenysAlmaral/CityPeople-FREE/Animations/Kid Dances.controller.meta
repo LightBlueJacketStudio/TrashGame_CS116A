@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 2bd53cf831daa8f4c8883b3660b6114c
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 9100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Animations/Kid Dances.controller
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:918db1ce97576ec0ed6ebc0b16538c606d357a0851df8e4b1bad2af170987631
+size 409

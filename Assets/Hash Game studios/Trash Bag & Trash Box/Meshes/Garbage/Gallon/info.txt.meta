@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 31b06b69e07df734b855f9dedad54ce7
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Meshes/Garbage/Gallon/info.txt
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:1091b0ff8bc3b9cb80b04f0728eab0399b6febc19d3bbd44681e61b74b03b6de
+size 385

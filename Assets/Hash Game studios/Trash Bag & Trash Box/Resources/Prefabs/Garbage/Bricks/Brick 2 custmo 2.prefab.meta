@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: b407c4746f94b334fa28df0c4b3e09c0
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Garbage/Bricks/Brick
-    2 custmo 2.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bb0308e12c1afdf8067c68061fca0630b49f674474eb3f9eb14cf2c437fb7e9
+size 411

@@ -1,7 +1,11 @@
 {
   "dependencies": {
     "com.unity.ai.navigation": {
+<<<<<<< HEAD
       "version": "2.0.8",
+=======
+      "version": "2.0.9",
+>>>>>>> origin/main
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -20,7 +24,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
+<<<<<<< HEAD
       "version": "2.10.2",
+=======
+      "version": "2.10.0",
+>>>>>>> origin/main
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -46,7 +54,11 @@
       "dependencies": {}
     },
     "com.unity.ide.rider": {
+<<<<<<< HEAD
       "version": "3.0.36",
+=======
+      "version": "3.0.37",
+>>>>>>> origin/main
       "depth": 0,
       "source": "registry",
       "dependencies": {

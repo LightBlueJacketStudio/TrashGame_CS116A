@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 82eabe7732febf54ca7214e749da5005
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Garbage/Canned/Paint/Paint
-    can crumple Green.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8491420c1fb3a74cbc5e2ea63fc5d03f6448346351b014741d19d5b2ed520e9
+size 424

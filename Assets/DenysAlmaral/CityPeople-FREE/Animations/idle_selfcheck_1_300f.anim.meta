@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e15f7a228bab0ca4a87f5ca0c829529c
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 7400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Animations/idle_selfcheck_1_300f.anim
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:814a876e479603c4ea0743ffe55e6adb86c764db3104b833e03ef40d91b21d03
+size 414

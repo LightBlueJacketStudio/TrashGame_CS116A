@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: b152080a18c835e46a45256e6a896c3a
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Materials/Trash bin 2/Trash
-    bin 2 Machinery mat.mat
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cf78b5566096ffaca3783cb1580a709621e776562ba51df464581b06eabacdb
+size 440

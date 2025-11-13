@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 35d7805081d652d4a9658d2573549b6d
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Trash
-    bin 1/Trash bin 1.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:08e1ea6bc8c3c461fc371d49320b899fa92f8febf42754decf7fa0a0938ae492
+size 403

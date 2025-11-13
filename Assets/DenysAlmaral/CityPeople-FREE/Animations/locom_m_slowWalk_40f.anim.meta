@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 5514cf4c8eb9634418fbb77da0bc474f
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 7400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Animations/locom_m_slowWalk_40f.anim
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:923ca068e16d2ff83980ff361330d7fc7baa736000b713f1bfa4885ce1d302e8
+size 413

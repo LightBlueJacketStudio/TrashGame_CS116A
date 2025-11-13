@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: ea759732b27b305468b0cc0c0571c36a
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Garbage/Color
-    spray/Color spray_collider.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:91fafca42cc0a58053ad25f5123a6869eac49aa51036614f721842886f89cc55
+size 420

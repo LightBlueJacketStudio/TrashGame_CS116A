@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 38748b9d0d9e4c14f9cc2da64523aa09
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 112000000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Scenes/Render Scene/LightingData.asset
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2dae72be92cfe9da5b76aa80a22cfb4c1e835af9e64207dd119b10cd09e1cc6
+size 385

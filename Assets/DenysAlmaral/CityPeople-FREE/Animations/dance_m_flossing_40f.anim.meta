@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: d00cdfa24148d014dbed6aad0445d251
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 7400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Animations/dance_m_flossing_40f.anim
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:723f835d4f5d10cee94e78cb9acc6bdb97fc3a96ae43dce8e9ef8e952d065c2f
+size 413

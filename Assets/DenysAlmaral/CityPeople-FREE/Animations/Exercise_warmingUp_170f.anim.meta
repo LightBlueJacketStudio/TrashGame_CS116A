@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: edc178fb93f9eec4186494917db79908
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 7400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Animations/Exercise_warmingUp_170f.anim
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:00765b6fbbce8fc1270dc8a0cdc540c4de34433ddae7f6b148cb77c8d813a226
+size 416

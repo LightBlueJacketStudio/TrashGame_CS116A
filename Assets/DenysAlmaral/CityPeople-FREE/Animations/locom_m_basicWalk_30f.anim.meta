@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 2f30f4bf0b93ae34b80f7208aadfc8cb
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 7400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Animations/locom_m_basicWalk_30f.anim
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:cadf44ad448636d2b772613dcd3560fba112371d8a97b2032e99c6d466578c47
+size 414

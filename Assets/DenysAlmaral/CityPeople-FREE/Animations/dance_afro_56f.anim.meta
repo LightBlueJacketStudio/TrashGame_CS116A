@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 791bde781c8a9354bad2a88379872a76
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 7400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Animations/dance_afro_56f.anim
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:486811244b30c0e7bf7c670b480be2f5799735da6aa93a34d68f677f0dcc7bde
+size 407

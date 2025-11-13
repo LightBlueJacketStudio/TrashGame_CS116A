@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 0531bc109cd771e468c0222e11565108
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Trash
-    bin 1/Trash bin 1_Collider.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:992513af49cb2b78d4a55f0369d553bf559fd2087fb4b58b4e84bfa361ab74ad
+size 412

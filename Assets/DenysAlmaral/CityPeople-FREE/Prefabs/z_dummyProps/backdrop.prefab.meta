@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 88bc98a59e1aa924c955861f4696635e
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Prefabs/z_dummyProps/backdrop.prefab
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:fad0e4d4c82ad573facec75534790aa8fa4028d3007f9e124119cdd21b38eb8f
+size 379

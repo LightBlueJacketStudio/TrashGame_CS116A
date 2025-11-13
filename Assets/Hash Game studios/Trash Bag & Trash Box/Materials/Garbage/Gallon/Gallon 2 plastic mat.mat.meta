@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: cb241b6b1fea94b49938313e73cf3065
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Materials/Garbage/Gallon/Gallon
-    2 plastic mat.mat
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bebaf5996a77cb671da290c2b0c33aae0da61c5a2a367257524f54d1ad312d8
+size 438

@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: c01b96ed1ad990043a05e4d301a114a7
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Prefabs/z_dummyProps/dprop_streetSign.prefab
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:4099cea7a8135e1a0ed02892b3d1c038972b478d3e391f1d57f36137cd0e198c
+size 387

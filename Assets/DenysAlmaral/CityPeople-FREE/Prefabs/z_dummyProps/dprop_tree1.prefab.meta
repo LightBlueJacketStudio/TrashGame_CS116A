@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 05f535e5bf874114ab7846003fc4e9d4
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Prefabs/z_dummyProps/dprop_tree1.prefab
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:f808fbea238138952de10aec37a2f9f6ad82aaf655ada111446aae82722f7986
+size 382

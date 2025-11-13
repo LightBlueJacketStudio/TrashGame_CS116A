@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 723ed4c8a00fd5546bf0bb71d745a59f
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Materials/disaProps.mat
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:156b9645e1f34a1b5d8593a132963d223645968d8f50e0563cd869e4e1393bc3
+size 400

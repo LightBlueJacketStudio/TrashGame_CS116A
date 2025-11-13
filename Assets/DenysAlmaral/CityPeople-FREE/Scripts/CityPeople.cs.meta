@@ -1,18 +1,3 @@
-fileFormatVersion: 2
-guid: 54f141628068b9b4493f69f797f003b2
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Scripts/CityPeople.cs
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:44bee145c4a7311773115266336cfb8afb37edd350891a4bcc6f58590377cc18
+size 453

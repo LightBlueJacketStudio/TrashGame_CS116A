@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 46272233633b3ff4db32b079b5469d15
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Materials/Garbage/Bottle/Bottle
-    1/Bottle 1 green glass dirt mat.mat
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:f92a3fa32d9fbe40ca66c71e6c671977c6edda760be31a0784078b5a38266289
+size 456

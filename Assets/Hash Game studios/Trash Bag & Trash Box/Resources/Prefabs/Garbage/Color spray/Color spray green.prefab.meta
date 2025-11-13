@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 476a9a113c098c549b31bc4c2706d47c
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Garbage/Color
-    spray/Color spray green.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e0638b537372a5d054a4afd30f95220fbc6cd5620fd148a074097202491dc6a
+size 417

@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 77ef844353266b047ac17cf8657c7231
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Materials/Trash bag/1/Trash
-    bag 1 clean orange mat.mat
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:1408cbd12e5d5efdc78a904710e0f7f3d100e4804a1866aa30c0cc31f390fff7
+size 443

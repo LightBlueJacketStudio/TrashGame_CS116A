@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 0870a193f64ba2546b645b2747effac9
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Materials/Lightis/White
-    Light mat.mat
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ab4ab8ecdffe16abf64a02bd18ab2da69204c0cc2553657764d9bece8b790d7
+size 426

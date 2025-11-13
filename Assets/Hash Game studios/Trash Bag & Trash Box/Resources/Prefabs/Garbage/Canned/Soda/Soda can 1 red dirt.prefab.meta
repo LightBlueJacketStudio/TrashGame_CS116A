@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 1dc60c5091cd72e4991732fcf5ab9226
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Garbage/Canned/Soda/Soda
-    can 1 red dirt.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:394a72aa78a293fb40b3045295fc1cf638b0cc233f2efde8c14b7bb50e2ff06d
+size 419

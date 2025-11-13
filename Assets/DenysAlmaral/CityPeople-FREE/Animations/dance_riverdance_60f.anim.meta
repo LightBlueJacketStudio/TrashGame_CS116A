@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 68f221371cf19d04d863b97a57144e0b
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 7400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Animations/dance_riverdance_60f.anim
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:585cbcb9dc8847a46d6f558e24a8ae6c922a36609d29f876a0a09769e80ed434
+size 413

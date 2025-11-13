@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: fb83b1981ecd6a24aa02503c6c8f0d67
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Materials/Trash bin 2/Trash
-    bin 2 Wood mat.mat
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:acad00cf73e38f86b5721e98e69728efe44c24c0ad5f21b4d878418951798c50
+size 435

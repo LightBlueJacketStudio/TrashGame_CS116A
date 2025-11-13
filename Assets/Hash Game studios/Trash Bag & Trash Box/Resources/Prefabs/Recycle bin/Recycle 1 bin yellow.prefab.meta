@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 70b4717aa500c7544b1bf995a36cf9c5
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Resources/Prefabs/Recycle
-    bin/Recycle 1 bin yellow.prefab
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:b444cf6b9ca23ffd0d66b2188cb00d3479d80defae5aff0207bfd8af91db17e1
+size 412

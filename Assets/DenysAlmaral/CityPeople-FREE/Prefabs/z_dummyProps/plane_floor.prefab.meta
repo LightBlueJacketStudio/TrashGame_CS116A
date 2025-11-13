@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: aa79c7dd8a2135e48b976d21abadb211
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Prefabs/z_dummyProps/plane_floor.prefab
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:178d183bfdf19dde0f1b341853d5134b17d9bdbdb32a542efd9ca0f2f86397f3
+size 382

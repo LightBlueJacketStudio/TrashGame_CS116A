@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 4d34f0adbd60ccb43994a7c27b95346b
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260446
-  packageName: City People FREE Samples
-  packageVersion: 1.1.1
-  assetPath: Assets/DenysAlmaral/CityPeople-FREE/Documentation/ReadMe.md
-  uploadId: 748246
+version https://git-lfs.github.com/spec/v1
+oid sha256:caf67102579526381c691b63fffa3eea2315a35338bdbf8bb5107d9849f0d84c
+size 370

@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: e9f7765538a16cd49a2c0fdb04a2eb63
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 316725
-  packageName: Trash bag & Trash box
-  packageVersion: 1.3.0
-  assetPath: Assets/Hash Game studios/Trash Bag & Trash Box/Meshes/Garbage/Canned/Soda/info.txt
-  uploadId: 752217
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4663b5a8b216fbe02190552d8e0da263ad520a33c201f08becec13c24275ae8
+size 390

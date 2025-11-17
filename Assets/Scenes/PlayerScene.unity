@@ -810,8 +810,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
   maxHealth: 100
   currentHealth: 0
-  healthText: {fileID: 0}
-  gameOverText: {fileID: 0}
+  healthText: {fileID: 768557069}
+  gameOverText: {fileID: 518824462}
 --- !u!114 &1936546082
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -825,7 +825,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GarbageCollector
   garbageCollected: 0
-  counterText: {fileID: 0}
+  counterText: {fileID: 866898692}
 --- !u!114 &1936546083
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -15,6 +15,7 @@ public class NPCWander : MonoBehaviour
     private Vector3 moveDirection;
     private float timer;
     private Animator animator;
+    private bool isFrozen = false; 
     
     void Start()
     {
@@ -24,6 +25,12 @@ public class NPCWander : MonoBehaviour
     
     void Update()
     {
+        // Don't move if frozen 
+        if (isFrozen)
+        {
+            return;
+        }
+        
         // Move the NPC
         transform.Translate(moveDirection * moveSpeed * Time.deltaTime, Space.World);
         
@@ -68,5 +75,16 @@ public class NPCWander : MonoBehaviour
         float randomZ = Random.Range(-1f, 1f);
         
         moveDirection = new Vector3(randomX, 0, randomZ).normalized;
+    }
+    
+    public void SetFrozen(bool frozen)
+    {
+        isFrozen = frozen;
+        
+        // Stop animator when frozen
+        if (animator != null)
+        {
+            animator.SetBool("isWalking", !frozen);
+        }
     }
 }

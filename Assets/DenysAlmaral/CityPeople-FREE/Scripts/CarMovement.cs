@@ -4,6 +4,7 @@ public class CarMovement : MonoBehaviour
 {
     [Header("Movement Settings")]
     public float moveSpeed = 8f;
+    public float slowSpeed = 3f; //  this is for slow speed
     public Vector3 moveDirection = Vector3.forward;
     
     [Header("Boundary Settings")]
@@ -12,9 +13,17 @@ public class CarMovement : MonoBehaviour
     public float minZ = -15f;
     public float maxZ = 15f;
     public bool loopAround = true; 
-    private bool isFrozen = false;
-
+    private bool isFrozen = false;//used by motorGang
+    private bool isSlowed = false;     // used by Traffic Jam
+    // Called by Traffic Jam Manager
+    public void SetSlowed(bool slowed)
+    {
+        isSlowed = slowed;
+    }
+//called by motor gang
     public void SetFrozen(bool frozen)
+    
+
     {
         isFrozen = frozen;
     }
@@ -34,6 +43,8 @@ public class CarMovement : MonoBehaviour
         {
             return;
         }
+            // Choose speed based on event
+        float currentSpeed = isSlowed ? slowSpeed : moveSpeed;
         // Move the car
         transform.Translate(moveDirection * moveSpeed * Time.deltaTime, Space.World);
         

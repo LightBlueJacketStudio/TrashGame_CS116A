@@ -166,6 +166,7 @@ MonoBehaviour:
   scenesToLoad:
   - PlayerScene
   - NPCScene
+  - PowerupsScene
 --- !u!1 &1564350230
 GameObject:
   m_ObjectHideFlags: 0

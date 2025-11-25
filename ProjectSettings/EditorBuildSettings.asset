@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NPCScene.unity
     guid: f0984af65b5fb4ceb8b8d78c5fbdd445
+  - enabled: 1
+    path: Assets/PowerupsScene.unity
+    guid: fe83ebe816c574ae3978e30b802d7120
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

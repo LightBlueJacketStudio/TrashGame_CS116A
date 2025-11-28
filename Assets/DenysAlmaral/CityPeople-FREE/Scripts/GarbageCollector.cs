@@ -13,6 +13,7 @@ public class GarbageCollector : MonoBehaviour
         UpdateUI();
     }
     
+    
     void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Garbage"))

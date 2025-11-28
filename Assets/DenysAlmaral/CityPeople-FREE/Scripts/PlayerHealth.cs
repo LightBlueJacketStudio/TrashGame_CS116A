@@ -8,7 +8,7 @@ public class PlayerHealth : MonoBehaviour
     Debug.Log($"OnCollisionEnter called! Hit: {collision.gameObject.name}");
 }
     [Header("Health Settings")]
-    public int maxHealth = 3;           // Maximum hearts (3 by default)
+    private int maxHealth = 999999999;           // Maximum hearts (3 by default)
     public int currentHealth;           // Current health
     
     [Header("Damage Settings")]

@@ -1,9 +1,10 @@
 using UnityEngine;
+using TMPro; // Add this for TextMesh Pro
 
 public class TrashCounter : MonoBehaviour
 {
-    public static TrashCounter Instance;     // global access
-    public TextMesh textMesh;                // drag your TextMesh here in Inspector
+    public static TrashCounter Instance;
+    public TextMeshPro tmpText; // Use TextMesh Pro for UI
 
     int count = 0;
 
@@ -15,12 +16,13 @@ public class TrashCounter : MonoBehaviour
 
     public void AddTrash()
     {
+        Debug.Log("Trash collected!, count : " + count);
         count++;
         UpdateLabel();
     }
 
     void UpdateLabel()
     {
-        textMesh.text = "Trash Collected: " + count;
+        tmpText.text = "Trash Collected: " + count;
     }
 }

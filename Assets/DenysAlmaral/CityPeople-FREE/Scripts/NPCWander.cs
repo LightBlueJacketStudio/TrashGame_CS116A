@@ -62,11 +62,19 @@ public class NPCWander : MonoBehaviour
         }
         
         // Set animator walking state
-        if (animator != null)
+        if (animator != null && animator.parameters.Length > 0)
         {
-            animator.SetBool("isWalking", true);
+            // Only set if parameter exists
+            foreach (var param in animator.parameters)
+            {
+                if (param.name == "isWalking")
+                {
+                    animator.SetBool("isWalking", true);
+                    break;
+                }
+            }
         }
-    }
+    } 
     
     void ChooseNewDirection()
     {
@@ -82,9 +90,17 @@ public class NPCWander : MonoBehaviour
         isFrozen = frozen;
         
         // Stop animator when frozen
-        if (animator != null)
+        if (animator != null && animator.parameters.Length > 0)
         {
-            animator.SetBool("isWalking", !frozen);
+            // Only set if parameter exists
+            foreach (var param in animator.parameters)
+            {
+                if (param.name == "isWalking")
+                {
+                    animator.SetBool("isWalking", !frozen);
+                    break;
+                }
+            }
         }
     }
 }

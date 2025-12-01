@@ -394,6 +394,7 @@ MonoBehaviour:
   - PowerupsScene
   - TrashGen
   - EventScene
+  - UI Features
 --- !u!1 &1514953646
 GameObject:
   m_ObjectHideFlags: 0

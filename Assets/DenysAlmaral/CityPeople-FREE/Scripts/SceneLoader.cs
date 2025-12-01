@@ -7,7 +7,8 @@ public class SceneLoader : MonoBehaviour
     public string[] scenesToLoad = new string[]
     {
         "PlayerScene",
-        "NPCScene"
+        "NPCScene",
+        ""
     };
     
     void Awake()

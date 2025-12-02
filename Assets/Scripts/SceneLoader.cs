@@ -7,5 +7,6 @@ public class SceneLoader1 : MonoBehaviour
     {
         // loadING the EventScene
         SceneManager.LoadSceneAsync("EventScene", LoadSceneMode.Additive);
+        Time.timeScale = 0;
     }
 }
